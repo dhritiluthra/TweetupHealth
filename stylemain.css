@@ -18,8 +18,8 @@
 
 body{
     display: block;
-    background-color:var(--bs- #1efdcd);
-    background-image: radial-gradient( #11efff, #0af8e4, #04bfee);
+    background-color: #ffff;
+    /*background-image: radial-gradient( #11efff, #0af8e4, #04bfee);*/
     /* background-image: radial-gradient( #2a8092, #2b55ae,#0d86a4); */
     
     overflow: none;
@@ -36,8 +36,8 @@ body{
 }
 
 .header{
-    background-color:#a6edff;
-    height: 80px;
+    background-color:#3d6db9;
+    height: 50px;
     width: 100%;
     border-bottom: 1px solid #2bfdfd;
 }
@@ -183,4 +183,7 @@ body{
     font-family:cursive;
     font-size: 20px;
     text-decoration: none; !important
+}
+.row nav{
+    
 }
